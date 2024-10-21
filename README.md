@@ -46,17 +46,17 @@
 ## 📊 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap;">
   <div style="width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansaMuh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  </div>
-  <div style="width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=HansaMuh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   </div>
   <div style="width: 100%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HansaMuh&theme=tokyonight&hide_border=false" />
   </div>
   <div style="width: 100%;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HansaMuh&theme=tokyo-night" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansaMuh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   </div>
+  <!--<div style="width: 100%;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HansaMuh&theme=tokyo-night" />
+  </div>-->
 </div>
 
 
