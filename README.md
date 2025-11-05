@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Raihan Saputra</h1>
 <h3 align="center">An aspiring Software Engineer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Histopedia](https://github.com/HansaMuh/Histopedia)
+- 🔭 I’m currently working on **[Redacted]**
 
-- 🌱 I’m currently learning **react, vue**
+- 🌱 I’m currently learning **C#, .NET Platform**
 
 <!-- - 👨‍💻 All of my projects are available at [https://lorem.ipsum.com/](https://lorem.ipsum.com/)-->
 
