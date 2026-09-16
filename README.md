@@ -47,6 +47,6 @@ My name is **Muhammad Raihan Saputra**. People usually call me by my middle name
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="metrics.svg" alt="GitHub metrics: profile, activity, community, languages and coding habits" />
 </p>
