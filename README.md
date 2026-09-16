@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HansaMuh/HansaMuh/main/header.svg" height="50%" alt="Celestial Chart">
-</p>
-
-<p align="center">
-  <a href="mailto:muh.raihan.saputra@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?logo=protonmail&logoColor=fff" alt="Email" /></a>
-  <a href="https://linkedin.com/in/muh-raihan-saputra"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
-  <a href="https://hansamuh.github.io"><img src="https://img.shields.io/badge/Portfolio-222222?logo=githubpages&logoColor=fff" alt="Portfolio" /></a>
+  <img src="https://raw.githubusercontent.com/HansaMuh/HansaMuh/main/header.svg" width="100%" alt="Celestial Chart">
 </p>
 
 ## 👋 About Me
